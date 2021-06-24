@@ -104,6 +104,6 @@ async function loop() {
   return response;
 }
 
-setInterval(loop, 500000);
+setInterval(loop, 300000);
 
 app.listen(3000, () => console.log("[Loki] Webhook is listening"));
