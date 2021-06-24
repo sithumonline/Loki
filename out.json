@@ -1,0 +1,1585 @@
+{
+  "rss": {
+    "$": { "version": "2.0", "xmlns:torrent": "http://xmlns.ezrss.it/0.1/" },
+    "channel": [
+      {
+        "title": ["TV Torrents RSS feed - EZTV"],
+        "link": ["https://eztv.re/"],
+        "description": ["TV Torrents RSS feed - EZTV"],
+        "lastBuildDate": ["Wed, 23 Jun 2021 22:30:01 -0400"],
+        "item": [
+          {
+            "title": ["The Bold Type S05E05 480p x264-mSD"],
+            "category": ["TV"],
+            "link": [
+              "https://eztv.re/ep/1659033/the-bold-type-s05e05-480p-x264-msd/"
+            ],
+            "guid": [
+              "https://eztv.re/ep/1659033/the-bold-type-s05e05-480p-x264-msd/"
+            ],
+            "pubDate": ["Wed, 23 Jun 2021 22:27:40 -0400"],
+            "torrent:contentLength": ["126372947"],
+            "torrent:infoHash": ["A7F751388120CECEB4DF8272E9FC177099294812"],
+            "torrent:magnetURI": [
+              "magnet:?xt=urn:btih:A7F751388120CECEB4DF8272E9FC177099294812&dn=The.Bold.Type.S05E05.480p.x264-mSD%5Beztv.re%5D.mkv&tr=udp%3A%2F%2Ftracker.publicbt.com%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969"
+            ],
+            "torrent:seeds": ["0"],
+            "torrent:peers": ["0"],
+            "torrent:verified": ["0"],
+            "torrent:fileName": [
+              "The.Bold.Type.S05E05.480p.x264-mSD[eztv.re].mkv"
+            ],
+            "enclosure": [
+              {
+                "$": {
+                  "url": "https://zoink.ch/torrent/The.Bold.Type.S05E05.480p.x264-mSD[eztv.re].mkv.torrent",
+                  "length": "126372947",
+                  "type": "application/x-bittorrent"
+                }
+              }
+            ]
+          },
+          {
+            "title": ["The Bold Type S05E05 720p HEVC x265-MeGusta"],
+            "category": ["TV"],
+            "link": [
+              "https://eztv.re/ep/1659032/the-bold-type-s05e05-720p-hevc-x265-megusta/"
+            ],
+            "guid": [
+              "https://eztv.re/ep/1659032/the-bold-type-s05e05-720p-hevc-x265-megusta/"
+            ],
+            "pubDate": ["Wed, 23 Jun 2021 22:26:43 -0400"],
+            "torrent:contentLength": ["167138149"],
+            "torrent:infoHash": ["1EB3B1AE472D6E28EEAF4A6598AF63B143AD4249"],
+            "torrent:magnetURI": [
+              "magnet:?xt=urn:btih:1EB3B1AE472D6E28EEAF4A6598AF63B143AD4249&dn=The.Bold.Type.S05E05.720p.HEVC.x265-MeGusta%5Beztv.re%5D.mkv&tr=udp%3A%2F%2Ftracker.publicbt.com%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969"
+            ],
+            "torrent:seeds": ["0"],
+            "torrent:peers": ["0"],
+            "torrent:verified": ["0"],
+            "torrent:fileName": [
+              "The.Bold.Type.S05E05.720p.HEVC.x265-MeGusta[eztv.re].mkv"
+            ],
+            "enclosure": [
+              {
+                "$": {
+                  "url": "https://zoink.ch/torrent/The.Bold.Type.S05E05.720p.HEVC.x265-MeGusta[eztv.re].mkv.torrent",
+                  "length": "167138149",
+                  "type": "application/x-bittorrent"
+                }
+              }
+            ]
+          },
+          {
+            "title": ["Criminal Planet S01E07 480p x264-mSD"],
+            "category": ["TV"],
+            "link": [
+              "https://eztv.re/ep/1659031/criminal-planet-s01e07-480p-x264-msd/"
+            ],
+            "guid": [
+              "https://eztv.re/ep/1659031/criminal-planet-s01e07-480p-x264-msd/"
+            ],
+            "pubDate": ["Wed, 23 Jun 2021 22:25:21 -0400"],
+            "torrent:contentLength": ["183956759"],
+            "torrent:infoHash": ["FF17D3362D56AC8DED7EC4A90A9807B3C40B2923"],
+            "torrent:magnetURI": [
+              "magnet:?xt=urn:btih:FF17D3362D56AC8DED7EC4A90A9807B3C40B2923&dn=Criminal.Planet.S01E07.480p.x264-mSD%5Beztv.re%5D.mkv&tr=udp%3A%2F%2Ftracker.publicbt.com%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969"
+            ],
+            "torrent:seeds": ["0"],
+            "torrent:peers": ["0"],
+            "torrent:verified": ["0"],
+            "torrent:fileName": [
+              "Criminal.Planet.S01E07.480p.x264-mSD[eztv.re].mkv"
+            ],
+            "enclosure": [
+              {
+                "$": {
+                  "url": "https://zoink.ch/torrent/Criminal.Planet.S01E07.480p.x264-mSD[eztv.re].mkv.torrent",
+                  "length": "183956759",
+                  "type": "application/x-bittorrent"
+                }
+              }
+            ]
+          },
+          {
+            "title": ["The Bold Type S05E05 WEB x264-PHOENiX"],
+            "category": ["TV"],
+            "link": [
+              "https://eztv.re/ep/1659030/the-bold-type-s05e05-web-x264-phoenix/"
+            ],
+            "guid": [
+              "https://eztv.re/ep/1659030/the-bold-type-s05e05-web-x264-phoenix/"
+            ],
+            "pubDate": ["Wed, 23 Jun 2021 22:22:21 -0400"],
+            "torrent:contentLength": ["239835718"],
+            "torrent:infoHash": ["FD3AFB8C351FBDFC749B54B4F66FC4F444E172C8"],
+            "torrent:magnetURI": [
+              "magnet:?xt=urn:btih:FD3AFB8C351FBDFC749B54B4F66FC4F444E172C8&dn=The.Bold.Type.S05E05.WEB.x264-PHOENiX%5Beztv.re%5D.mkv&tr=udp%3A%2F%2Ftracker.publicbt.com%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969"
+            ],
+            "torrent:seeds": ["0"],
+            "torrent:peers": ["0"],
+            "torrent:verified": ["0"],
+            "torrent:fileName": [
+              "The.Bold.Type.S05E05.WEB.x264-PHOENiX[eztv.re].mkv"
+            ],
+            "enclosure": [
+              {
+                "$": {
+                  "url": "https://zoink.ch/torrent/The.Bold.Type.S05E05.WEB.x264-PHOENiX[eztv.re].mkv.torrent",
+                  "length": "239835718",
+                  "type": "application/x-bittorrent"
+                }
+              }
+            ]
+          },
+          {
+            "title": ["Criminal Planet S01E07 720p HEVC x265-MeGusta"],
+            "category": ["TV"],
+            "link": [
+              "https://eztv.re/ep/1659029/criminal-planet-s01e07-720p-hevc-x265-megusta/"
+            ],
+            "guid": [
+              "https://eztv.re/ep/1659029/criminal-planet-s01e07-720p-hevc-x265-megusta/"
+            ],
+            "pubDate": ["Wed, 23 Jun 2021 22:21:45 -0400"],
+            "torrent:contentLength": ["315871012"],
+            "torrent:infoHash": ["3EADC5E51E44116F93DFA14DA8CBE74F9377C88A"],
+            "torrent:magnetURI": [
+              "magnet:?xt=urn:btih:3EADC5E51E44116F93DFA14DA8CBE74F9377C88A&dn=Criminal.Planet.S01E07.720p.HEVC.x265-MeGusta%5Beztv.re%5D.mkv&tr=udp%3A%2F%2Ftracker.publicbt.com%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969"
+            ],
+            "torrent:seeds": ["0"],
+            "torrent:peers": ["0"],
+            "torrent:verified": ["0"],
+            "torrent:fileName": [
+              "Criminal.Planet.S01E07.720p.HEVC.x265-MeGusta[eztv.re].mkv"
+            ],
+            "enclosure": [
+              {
+                "$": {
+                  "url": "https://zoink.ch/torrent/Criminal.Planet.S01E07.720p.HEVC.x265-MeGusta[eztv.re].mkv.torrent",
+                  "length": "315871012",
+                  "type": "application/x-bittorrent"
+                }
+              }
+            ]
+          },
+          {
+            "title": ["Criminal Planet S01E07 XviD-AFG"],
+            "category": ["TV"],
+            "link": [
+              "https://eztv.re/ep/1659028/criminal-planet-s01e07-xvid-afg/"
+            ],
+            "guid": [
+              "https://eztv.re/ep/1659028/criminal-planet-s01e07-xvid-afg/"
+            ],
+            "pubDate": ["Wed, 23 Jun 2021 22:19:34 -0400"],
+            "torrent:contentLength": ["573848984"],
+            "torrent:infoHash": ["10674B1B0C76EB5A88462C8788BEBB5D69CAA821"],
+            "torrent:magnetURI": [
+              "magnet:?xt=urn:btih:10674B1B0C76EB5A88462C8788BEBB5D69CAA821&dn=Criminal.Planet.S01E07.XviD-AFG%5Beztv.re%5D.avi&tr=udp%3A%2F%2Ftracker.publicbt.com%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969"
+            ],
+            "torrent:seeds": ["0"],
+            "torrent:peers": ["0"],
+            "torrent:verified": ["0"],
+            "torrent:fileName": [
+              "Criminal.Planet.S01E07.XviD-AFG[eztv.re].avi"
+            ],
+            "enclosure": [
+              {
+                "$": {
+                  "url": "https://zoink.ch/torrent/Criminal.Planet.S01E07.XviD-AFG[eztv.re].avi.torrent",
+                  "length": "573848984",
+                  "type": "application/x-bittorrent"
+                }
+              }
+            ]
+          },
+          {
+            "title": ["The Bold Type S05E05 720p WEB H264-CAKES"],
+            "category": ["TV"],
+            "link": [
+              "https://eztv.re/ep/1659027/the-bold-type-s05e05-720p-web-h264-cakes/"
+            ],
+            "guid": [
+              "https://eztv.re/ep/1659027/the-bold-type-s05e05-720p-web-h264-cakes/"
+            ],
+            "pubDate": ["Wed, 23 Jun 2021 22:15:52 -0400"],
+            "torrent:contentLength": ["1896163407"],
+            "torrent:infoHash": ["61DCBF38CD856439DDD428CA389DD6D7311CCF52"],
+            "torrent:magnetURI": [
+              "magnet:?xt=urn:btih:61DCBF38CD856439DDD428CA389DD6D7311CCF52&dn=the.bold.type.s05e05.720p.web.h264-cakes%5Beztv.re%5D.mkv&tr=udp%3A%2F%2Ftracker.publicbt.com%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969"
+            ],
+            "torrent:seeds": ["0"],
+            "torrent:peers": ["0"],
+            "torrent:verified": ["0"],
+            "torrent:fileName": [
+              "the.bold.type.s05e05.720p.web.h264-cakes[eztv.re].mkv"
+            ],
+            "enclosure": [
+              {
+                "$": {
+                  "url": "https://zoink.ch/torrent/the.bold.type.s05e05.720p.web.h264-cakes[eztv.re].mkv.torrent",
+                  "length": "1896163407",
+                  "type": "application/x-bittorrent"
+                }
+              }
+            ]
+          },
+          {
+            "title": ["Criminal Planet S01E07 1080p WEB h264-BAE"],
+            "category": ["TV"],
+            "link": [
+              "https://eztv.re/ep/1659026/criminal-planet-s01e07-1080p-web-h264-bae/"
+            ],
+            "guid": [
+              "https://eztv.re/ep/1659026/criminal-planet-s01e07-1080p-web-h264-bae/"
+            ],
+            "pubDate": ["Wed, 23 Jun 2021 22:06:51 -0400"],
+            "torrent:contentLength": ["1201158986"],
+            "torrent:infoHash": ["0031C1FCE26D81761FF274A348B356CA39E2DC56"],
+            "torrent:magnetURI": [
+              "magnet:?xt=urn:btih:0031C1FCE26D81761FF274A348B356CA39E2DC56&dn=Criminal.Planet.S01E07.1080p.WEB.h264-BAE%5Beztv.re%5D.mkv&tr=udp%3A%2F%2Ftracker.publicbt.com%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969"
+            ],
+            "torrent:seeds": ["0"],
+            "torrent:peers": ["0"],
+            "torrent:verified": ["0"],
+            "torrent:fileName": [
+              "Criminal.Planet.S01E07.1080p.WEB.h264-BAE[eztv.re].mkv"
+            ],
+            "enclosure": [
+              {
+                "$": {
+                  "url": "https://zoink.ch/torrent/Criminal.Planet.S01E07.1080p.WEB.h264-BAE[eztv.re].mkv.torrent",
+                  "length": "1201158986",
+                  "type": "application/x-bittorrent"
+                }
+              }
+            ]
+          },
+          {
+            "title": ["Criminal Planet S01E07 720p WEBRip x264-BAE"],
+            "category": ["TV"],
+            "link": [
+              "https://eztv.re/ep/1659025/criminal-planet-s01e07-720p-webrip-x264-bae/"
+            ],
+            "guid": [
+              "https://eztv.re/ep/1659025/criminal-planet-s01e07-720p-webrip-x264-bae/"
+            ],
+            "pubDate": ["Wed, 23 Jun 2021 22:06:18 -0400"],
+            "torrent:contentLength": ["824011456"],
+            "torrent:infoHash": ["3E5C53A787A5E286B07667D3EA171BCBAC682002"],
+            "torrent:magnetURI": [
+              "magnet:?xt=urn:btih:3E5C53A787A5E286B07667D3EA171BCBAC682002&dn=Criminal.Planet.S01E07.720p.WEBRip.x264-BAE%5Beztv.re%5D.mkv&tr=udp%3A%2F%2Ftracker.publicbt.com%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969"
+            ],
+            "torrent:seeds": ["0"],
+            "torrent:peers": ["0"],
+            "torrent:verified": ["0"],
+            "torrent:fileName": [
+              "Criminal.Planet.S01E07.720p.WEBRip.x264-BAE[eztv.re].mkv"
+            ],
+            "enclosure": [
+              {
+                "$": {
+                  "url": "https://zoink.ch/torrent/Criminal.Planet.S01E07.720p.WEBRip.x264-BAE[eztv.re].mkv.torrent",
+                  "length": "824011456",
+                  "type": "application/x-bittorrent"
+                }
+              }
+            ]
+          },
+          {
+            "title": ["Criminal Planet S01E07 WEBRip x264-BAE"],
+            "category": ["TV"],
+            "link": [
+              "https://eztv.re/ep/1659024/criminal-planet-s01e07-webrip-x264-bae/"
+            ],
+            "guid": [
+              "https://eztv.re/ep/1659024/criminal-planet-s01e07-webrip-x264-bae/"
+            ],
+            "pubDate": ["Wed, 23 Jun 2021 22:05:29 -0400"],
+            "torrent:contentLength": ["337878525"],
+            "torrent:infoHash": ["3F74F1C7ECFDE797B7F2278C3CF7D305ECCBCA2B"],
+            "torrent:magnetURI": [
+              "magnet:?xt=urn:btih:3F74F1C7ECFDE797B7F2278C3CF7D305ECCBCA2B&dn=Criminal.Planet.S01E07.WEBRip.x264-BAE%5Beztv.re%5D.mkv&tr=udp%3A%2F%2Ftracker.publicbt.com%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969"
+            ],
+            "torrent:seeds": ["0"],
+            "torrent:peers": ["0"],
+            "torrent:verified": ["0"],
+            "torrent:fileName": [
+              "Criminal.Planet.S01E07.WEBRip.x264-BAE[eztv.re].mkv"
+            ],
+            "enclosure": [
+              {
+                "$": {
+                  "url": "https://zoink.ch/torrent/Criminal.Planet.S01E07.WEBRip.x264-BAE[eztv.re].mkv.torrent",
+                  "length": "337878525",
+                  "type": "application/x-bittorrent"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "All In with Chris Hayes 2021 06 22 1080p WEBRip x265 HEVC-LM"
+            ],
+            "category": ["TV"],
+            "link": [
+              "https://eztv.re/ep/1659023/all-in-with-chris-hayes-2021-06-22-1080p-webrip-x265-hevc-lm/"
+            ],
+            "guid": [
+              "https://eztv.re/ep/1659023/all-in-with-chris-hayes-2021-06-22-1080p-webrip-x265-hevc-lm/"
+            ],
+            "pubDate": ["Wed, 23 Jun 2021 21:17:33 -0400"],
+            "torrent:contentLength": ["745566287"],
+            "torrent:infoHash": ["95D4D87B654707CB4DF2E8A06D4218A267A0C1AC"],
+            "torrent:magnetURI": [
+              "magnet:?xt=urn:btih:95D4D87B654707CB4DF2E8A06D4218A267A0C1AC&dn=All+In+with+Chris+Hayes+2021+06+22+1080p+WEBRip+x265+HEVC-LM%5Beztv.re%5D.mp4&tr=udp%3A%2F%2Ftracker.publicbt.com%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969"
+            ],
+            "torrent:seeds": ["0"],
+            "torrent:peers": ["0"],
+            "torrent:verified": ["0"],
+            "torrent:fileName": [
+              "All In with Chris Hayes 2021 06 22 1080p WEBRip x265 HEVC-LM[eztv.re].mp4"
+            ],
+            "enclosure": [
+              {
+                "$": {
+                  "url": "https://zoink.ch/torrent/All In with Chris Hayes 2021 06 22 1080p WEBRip x265 HEVC-LM[eztv.re].mp4.torrent",
+                  "length": "745566287",
+                  "type": "application/x-bittorrent"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "The Rachel Maddow Show 2021 06 22 1080p WEBRip x265 HEVC-LM"
+            ],
+            "category": ["TV"],
+            "link": [
+              "https://eztv.re/ep/1659022/the-rachel-maddow-show-2021-06-22-1080p-webrip-x265-hevc-lm/"
+            ],
+            "guid": [
+              "https://eztv.re/ep/1659022/the-rachel-maddow-show-2021-06-22-1080p-webrip-x265-hevc-lm/"
+            ],
+            "pubDate": ["Wed, 23 Jun 2021 21:16:24 -0400"],
+            "torrent:contentLength": ["734362203"],
+            "torrent:infoHash": ["55CE5B31EA6DF0B347281F9680A52C57C2001FD8"],
+            "torrent:magnetURI": [
+              "magnet:?xt=urn:btih:55CE5B31EA6DF0B347281F9680A52C57C2001FD8&dn=The+Rachel+Maddow+Show+2021+06+22+1080p+WEBRip+x265+HEVC-LM%5Beztv.re%5D.mp4&tr=udp%3A%2F%2Ftracker.publicbt.com%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969"
+            ],
+            "torrent:seeds": ["0"],
+            "torrent:peers": ["0"],
+            "torrent:verified": ["0"],
+            "torrent:fileName": [
+              "The Rachel Maddow Show 2021 06 22 1080p WEBRip x265 HEVC-LM[eztv.re].mp4"
+            ],
+            "enclosure": [
+              {
+                "$": {
+                  "url": "https://zoink.ch/torrent/The Rachel Maddow Show 2021 06 22 1080p WEBRip x265 HEVC-LM[eztv.re].mp4.torrent",
+                  "length": "734362203",
+                  "type": "application/x-bittorrent"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Full Frontal With Samantha Bee S06E14 May 12 2021 XviD-AFG"
+            ],
+            "category": ["TV"],
+            "link": [
+              "https://eztv.re/ep/1659021/full-frontal-with-samantha-bee-s06e14-may-12-2021-xvid-afg/"
+            ],
+            "guid": [
+              "https://eztv.re/ep/1659021/full-frontal-with-samantha-bee-s06e14-may-12-2021-xvid-afg/"
+            ],
+            "pubDate": ["Wed, 23 Jun 2021 21:13:06 -0400"],
+            "torrent:contentLength": ["410875024"],
+            "torrent:infoHash": ["6B758E3B10EADA68CD86F564A98C977308DDB2D6"],
+            "torrent:magnetURI": [
+              "magnet:?xt=urn:btih:6B758E3B10EADA68CD86F564A98C977308DDB2D6&dn=Full.Frontal.With.Samantha.Bee.S06E14.May.12.2021.XviD-AFG%5Beztv.re%5D.avi&tr=udp%3A%2F%2Ftracker.publicbt.com%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969"
+            ],
+            "torrent:seeds": ["0"],
+            "torrent:peers": ["0"],
+            "torrent:verified": ["0"],
+            "torrent:fileName": [
+              "Full.Frontal.With.Samantha.Bee.S06E14.May.12.2021.XviD-AFG[eztv.re].avi"
+            ],
+            "enclosure": [
+              {
+                "$": {
+                  "url": "https://zoink.ch/torrent/Full.Frontal.With.Samantha.Bee.S06E14.May.12.2021.XviD-AFG[eztv.re].avi.torrent",
+                  "length": "410875024",
+                  "type": "application/x-bittorrent"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "The Last Word with Lawrence O'Donnell 2021 06 22 1080p WEBRip x265 HEVC-LM"
+            ],
+            "category": ["TV"],
+            "link": [
+              "https://eztv.re/ep/1659020/the-last-word-with-lawrence-odonnell-2021-06-22-1080p-webrip-x265-hevc-lm/"
+            ],
+            "guid": [
+              "https://eztv.re/ep/1659020/the-last-word-with-lawrence-odonnell-2021-06-22-1080p-webrip-x265-hevc-lm/"
+            ],
+            "pubDate": ["Wed, 23 Jun 2021 21:02:21 -0400"],
+            "torrent:contentLength": ["719423809"],
+            "torrent:infoHash": ["25F4F5A569A07AF291935285D00D94D4D63D72CB"],
+            "torrent:magnetURI": [
+              "magnet:?xt=urn:btih:25F4F5A569A07AF291935285D00D94D4D63D72CB&dn=The+Last+Word+with+Lawrence+O%27Donnell+2021+06+22+1080p+WEBRip+x265+HEVC-LM%5Beztv.re%5D.mp4&tr=udp%3A%2F%2Ftracker.publicbt.com%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969"
+            ],
+            "torrent:seeds": ["0"],
+            "torrent:peers": ["0"],
+            "torrent:verified": ["0"],
+            "torrent:fileName": [
+              "The Last Word with Lawrence O'Donnell 2021 06 22 1080p WEBRip x265 HEVC-LM[eztv.re].mp4"
+            ],
+            "enclosure": [
+              {
+                "$": {
+                  "url": "https://zoink.ch/torrent/The Last Word with Lawrence O'Donnell 2021 06 22 1080p WEBRip x265 HEVC-LM[eztv.re].mp4.torrent",
+                  "length": "719423809",
+                  "type": "application/x-bittorrent"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "The 11th Hour with Brian Williams 2021 06 22 1080p WEBRip x265 HEVC-LM"
+            ],
+            "category": ["TV"],
+            "link": [
+              "https://eztv.re/ep/1659019/the-11th-hour-with-brian-williams-2021-06-22-1080p-webrip-x265-hevc-lm/"
+            ],
+            "guid": [
+              "https://eztv.re/ep/1659019/the-11th-hour-with-brian-williams-2021-06-22-1080p-webrip-x265-hevc-lm/"
+            ],
+            "pubDate": ["Wed, 23 Jun 2021 21:01:24 -0400"],
+            "torrent:contentLength": ["728143457"],
+            "torrent:infoHash": ["1B72D87A78412FDBF3EC0A0063561636E4B6247D"],
+            "torrent:magnetURI": [
+              "magnet:?xt=urn:btih:1B72D87A78412FDBF3EC0A0063561636E4B6247D&dn=The+11th+Hour+with+Brian+Williams+2021+06+22+1080p+WEBRip+x265+HEVC-LM%5Beztv.re%5D.mp4&tr=udp%3A%2F%2Ftracker.publicbt.com%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969"
+            ],
+            "torrent:seeds": ["0"],
+            "torrent:peers": ["0"],
+            "torrent:verified": ["0"],
+            "torrent:fileName": [
+              "The 11th Hour with Brian Williams 2021 06 22 1080p WEBRip x265 HEVC-LM[eztv.re].mp4"
+            ],
+            "enclosure": [
+              {
+                "$": {
+                  "url": "https://zoink.ch/torrent/The 11th Hour with Brian Williams 2021 06 22 1080p WEBRip x265 HEVC-LM[eztv.re].mp4.torrent",
+                  "length": "728143457",
+                  "type": "application/x-bittorrent"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Guys Grocery Games S26E16 Grand Reopening Pt1 720p HEVC x265-MeGusta"
+            ],
+            "category": ["TV"],
+            "link": [
+              "https://eztv.re/ep/1659008/guys-grocery-games-s26e16-grand-reopening-pt1-720p-hevc-x265-megusta/"
+            ],
+            "guid": [
+              "https://eztv.re/ep/1659008/guys-grocery-games-s26e16-grand-reopening-pt1-720p-hevc-x265-megusta/"
+            ],
+            "pubDate": ["Wed, 23 Jun 2021 20:13:01 -0400"],
+            "torrent:contentLength": ["618055131"],
+            "torrent:infoHash": ["E78E482A62D86CD553B8A3E38FE68D1B39F01C0E"],
+            "torrent:magnetURI": [
+              "magnet:?xt=urn:btih:E78E482A62D86CD553B8A3E38FE68D1B39F01C0E&dn=Guys.Grocery.Games.S26E16.Grand.Reopening.Pt1.720p.HEVC.x265-MeGusta%5Beztv.re%5D.mkv&tr=udp%3A%2F%2Ftracker.publicbt.com%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969"
+            ],
+            "torrent:seeds": ["0"],
+            "torrent:peers": ["0"],
+            "torrent:verified": ["0"],
+            "torrent:fileName": [
+              "Guys.Grocery.Games.S26E16.Grand.Reopening.Pt1.720p.HEVC.x265-MeGusta[eztv.re].mkv"
+            ],
+            "enclosure": [
+              {
+                "$": {
+                  "url": "https://zoink.ch/torrent/Guys.Grocery.Games.S26E16.Grand.Reopening.Pt1.720p.HEVC.x265-MeGusta[eztv.re].mkv.torrent",
+                  "length": "618055131",
+                  "type": "application/x-bittorrent"
+                }
+              }
+            ]
+          },
+          {
+            "title": ["NCIS New Orleans S01E10 MULTi 1080p WEB H264-FREAMON"],
+            "category": ["TV"],
+            "link": [
+              "https://eztv.re/ep/1659007/ncis-new-orleans-s01e10-multi-1080p-web-h264-freamon/"
+            ],
+            "guid": [
+              "https://eztv.re/ep/1659007/ncis-new-orleans-s01e10-multi-1080p-web-h264-freamon/"
+            ],
+            "pubDate": ["Wed, 23 Jun 2021 19:34:27 -0400"],
+            "torrent:contentLength": ["1575487986"],
+            "torrent:infoHash": ["D2470F818A25223B5AB9B5A2A586CB34C56FDD2E"],
+            "torrent:magnetURI": [
+              "magnet:?xt=urn:btih:D2470F818A25223B5AB9B5A2A586CB34C56FDD2E&dn=NCIS.New.Orleans.S01E10.MULTi.1080p.WEB.H264-FREAMON%5Beztv.re%5D.mkv&tr=udp%3A%2F%2Ftracker.publicbt.com%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969"
+            ],
+            "torrent:seeds": ["0"],
+            "torrent:peers": ["0"],
+            "torrent:verified": ["0"],
+            "torrent:fileName": [
+              "NCIS.New.Orleans.S01E10.MULTi.1080p.WEB.H264-FREAMON[eztv.re].mkv"
+            ],
+            "enclosure": [
+              {
+                "$": {
+                  "url": "https://zoink.ch/torrent/NCIS.New.Orleans.S01E10.MULTi.1080p.WEB.H264-FREAMON[eztv.re].mkv.torrent",
+                  "length": "1575487986",
+                  "type": "application/x-bittorrent"
+                }
+              }
+            ]
+          },
+          {
+            "title": ["NCIS New Orleans S01E09 MULTi 1080p WEB H264-FREAMON"],
+            "category": ["TV"],
+            "link": [
+              "https://eztv.re/ep/1659006/ncis-new-orleans-s01e09-multi-1080p-web-h264-freamon/"
+            ],
+            "guid": [
+              "https://eztv.re/ep/1659006/ncis-new-orleans-s01e09-multi-1080p-web-h264-freamon/"
+            ],
+            "pubDate": ["Wed, 23 Jun 2021 19:03:42 -0400"],
+            "torrent:contentLength": ["1571903976"],
+            "torrent:infoHash": ["38DC7AD51CB4C67414AAF858A19E5598E253E442"],
+            "torrent:magnetURI": [
+              "magnet:?xt=urn:btih:38DC7AD51CB4C67414AAF858A19E5598E253E442&dn=NCIS.New.Orleans.S01E09.MULTi.1080p.WEB.H264-FREAMON%5Beztv.re%5D.mkv&tr=udp%3A%2F%2Ftracker.publicbt.com%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969"
+            ],
+            "torrent:seeds": ["0"],
+            "torrent:peers": ["0"],
+            "torrent:verified": ["0"],
+            "torrent:fileName": [
+              "NCIS.New.Orleans.S01E09.MULTi.1080p.WEB.H264-FREAMON[eztv.re].mkv"
+            ],
+            "enclosure": [
+              {
+                "$": {
+                  "url": "https://zoink.ch/torrent/NCIS.New.Orleans.S01E09.MULTi.1080p.WEB.H264-FREAMON[eztv.re].mkv.torrent",
+                  "length": "1571903976",
+                  "type": "application/x-bittorrent"
+                }
+              }
+            ]
+          },
+          {
+            "title": ["Too Hot To Handle S02E03 720p WEB h264-GOSSIP"],
+            "category": ["TV"],
+            "link": [
+              "https://eztv.re/ep/1659005/too-hot-to-handle-s02e03-720p-web-h264-gossip/"
+            ],
+            "guid": [
+              "https://eztv.re/ep/1659005/too-hot-to-handle-s02e03-720p-web-h264-gossip/"
+            ],
+            "pubDate": ["Wed, 23 Jun 2021 18:39:59 -0400"],
+            "torrent:contentLength": ["978618223"],
+            "torrent:infoHash": ["F2A5F89E698D53DDE91BB0CD3839356AC6E681D3"],
+            "torrent:magnetURI": [
+              "magnet:?xt=urn:btih:F2A5F89E698D53DDE91BB0CD3839356AC6E681D3&dn=Too.Hot.To.Handle.S02E03.720p.WEB.h264-GOSSIP%5Beztv.re%5D.mkv&tr=udp%3A%2F%2Ftracker.publicbt.com%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969"
+            ],
+            "torrent:seeds": ["0"],
+            "torrent:peers": ["0"],
+            "torrent:verified": ["0"],
+            "torrent:fileName": [
+              "Too.Hot.To.Handle.S02E03.720p.WEB.h264-GOSSIP[eztv.re].mkv"
+            ],
+            "enclosure": [
+              {
+                "$": {
+                  "url": "https://zoink.ch/torrent/Too.Hot.To.Handle.S02E03.720p.WEB.h264-GOSSIP[eztv.re].mkv.torrent",
+                  "length": "978618223",
+                  "type": "application/x-bittorrent"
+                }
+              }
+            ]
+          },
+          {
+            "title": ["Too Hot To Handle S02E03 1080p WEB h264-GOSSIP"],
+            "category": ["TV"],
+            "link": [
+              "https://eztv.re/ep/1659004/too-hot-to-handle-s02e03-1080p-web-h264-gossip/"
+            ],
+            "guid": [
+              "https://eztv.re/ep/1659004/too-hot-to-handle-s02e03-1080p-web-h264-gossip/"
+            ],
+            "pubDate": ["Wed, 23 Jun 2021 18:39:56 -0400"],
+            "torrent:contentLength": ["1977475037"],
+            "torrent:infoHash": ["C1A6CBE93EA4F9166A82FB618A6F68F5C617F31D"],
+            "torrent:magnetURI": [
+              "magnet:?xt=urn:btih:C1A6CBE93EA4F9166A82FB618A6F68F5C617F31D&dn=Too.Hot.To.Handle.S02E03.1080p.WEB.h264-GOSSIP%5Beztv.re%5D.mkv&tr=udp%3A%2F%2Ftracker.publicbt.com%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969"
+            ],
+            "torrent:seeds": ["0"],
+            "torrent:peers": ["0"],
+            "torrent:verified": ["0"],
+            "torrent:fileName": [
+              "Too.Hot.To.Handle.S02E03.1080p.WEB.h264-GOSSIP[eztv.re].mkv"
+            ],
+            "enclosure": [
+              {
+                "$": {
+                  "url": "https://zoink.ch/torrent/Too.Hot.To.Handle.S02E03.1080p.WEB.h264-GOSSIP[eztv.re].mkv.torrent",
+                  "length": "1977475037",
+                  "type": "application/x-bittorrent"
+                }
+              }
+            ]
+          },
+          {
+            "title": ["Too Hot To Handle S02E01 1080p WEB h264-GOSSIP"],
+            "category": ["TV"],
+            "link": [
+              "https://eztv.re/ep/1659003/too-hot-to-handle-s02e01-1080p-web-h264-gossip/"
+            ],
+            "guid": [
+              "https://eztv.re/ep/1659003/too-hot-to-handle-s02e01-1080p-web-h264-gossip/"
+            ],
+            "pubDate": ["Wed, 23 Jun 2021 18:39:23 -0400"],
+            "torrent:contentLength": ["2310605074"],
+            "torrent:infoHash": ["9CB4E610B0B925A31FAE6B7544D4045CA4F659D4"],
+            "torrent:magnetURI": [
+              "magnet:?xt=urn:btih:9CB4E610B0B925A31FAE6B7544D4045CA4F659D4&dn=Too.Hot.To.Handle.S02E01.1080p.WEB.h264-GOSSIP%5Beztv.re%5D.mkv&tr=udp%3A%2F%2Ftracker.publicbt.com%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969"
+            ],
+            "torrent:seeds": ["0"],
+            "torrent:peers": ["0"],
+            "torrent:verified": ["0"],
+            "torrent:fileName": [
+              "Too.Hot.To.Handle.S02E01.1080p.WEB.h264-GOSSIP[eztv.re].mkv"
+            ],
+            "enclosure": [
+              {
+                "$": {
+                  "url": "https://zoink.ch/torrent/Too.Hot.To.Handle.S02E01.1080p.WEB.h264-GOSSIP[eztv.re].mkv.torrent",
+                  "length": "2310605074",
+                  "type": "application/x-bittorrent"
+                }
+              }
+            ]
+          },
+          {
+            "title": ["Too Hot To Handle S02E02 1080p WEB h264-GOSSIP"],
+            "category": ["TV"],
+            "link": [
+              "https://eztv.re/ep/1659002/too-hot-to-handle-s02e02-1080p-web-h264-gossip/"
+            ],
+            "guid": [
+              "https://eztv.re/ep/1659002/too-hot-to-handle-s02e02-1080p-web-h264-gossip/"
+            ],
+            "pubDate": ["Wed, 23 Jun 2021 18:38:09 -0400"],
+            "torrent:contentLength": ["2431963380"],
+            "torrent:infoHash": ["9DE8AB0350869762A6284CCC82EA6385443A25A4"],
+            "torrent:magnetURI": [
+              "magnet:?xt=urn:btih:9DE8AB0350869762A6284CCC82EA6385443A25A4&dn=Too.Hot.To.Handle.S02E02.1080p.WEB.h264-GOSSIP%5Beztv.re%5D.mkv&tr=udp%3A%2F%2Ftracker.publicbt.com%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969"
+            ],
+            "torrent:seeds": ["0"],
+            "torrent:peers": ["0"],
+            "torrent:verified": ["0"],
+            "torrent:fileName": [
+              "Too.Hot.To.Handle.S02E02.1080p.WEB.h264-GOSSIP[eztv.re].mkv"
+            ],
+            "enclosure": [
+              {
+                "$": {
+                  "url": "https://zoink.ch/torrent/Too.Hot.To.Handle.S02E02.1080p.WEB.h264-GOSSIP[eztv.re].mkv.torrent",
+                  "length": "2431963380",
+                  "type": "application/x-bittorrent"
+                }
+              }
+            ]
+          },
+          {
+            "title": ["Australian Ninja Warrior S05E03 XviD-AFG"],
+            "category": ["TV"],
+            "link": [
+              "https://eztv.re/ep/1659001/australian-ninja-warrior-s05e03-xvid-afg/"
+            ],
+            "guid": [
+              "https://eztv.re/ep/1659001/australian-ninja-warrior-s05e03-xvid-afg/"
+            ],
+            "pubDate": ["Wed, 23 Jun 2021 18:28:19 -0400"],
+            "torrent:contentLength": ["3410723522"],
+            "torrent:infoHash": ["274C72B97070D1D95299F6816F1AC244DE9D4796"],
+            "torrent:magnetURI": [
+              "magnet:?xt=urn:btih:274C72B97070D1D95299F6816F1AC244DE9D4796&dn=Australian.Ninja.Warrior.S05E03.XviD-AFG%5Beztv.re%5D.avi&tr=udp%3A%2F%2Ftracker.publicbt.com%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969"
+            ],
+            "torrent:seeds": ["0"],
+            "torrent:peers": ["0"],
+            "torrent:verified": ["0"],
+            "torrent:fileName": [
+              "Australian.Ninja.Warrior.S05E03.XviD-AFG[eztv.re].avi"
+            ],
+            "enclosure": [
+              {
+                "$": {
+                  "url": "https://zoink.ch/torrent/Australian.Ninja.Warrior.S05E03.XviD-AFG[eztv.re].avi.torrent",
+                  "length": "3410723522",
+                  "type": "application/x-bittorrent"
+                }
+              }
+            ]
+          },
+          {
+            "title": ["Australian Ninja Warrior S05E03 720p HEVC x265-MeGusta"],
+            "category": ["TV"],
+            "link": [
+              "https://eztv.re/ep/1659000/australian-ninja-warrior-s05e03-720p-hevc-x265-megusta/"
+            ],
+            "guid": [
+              "https://eztv.re/ep/1659000/australian-ninja-warrior-s05e03-720p-hevc-x265-megusta/"
+            ],
+            "pubDate": ["Wed, 23 Jun 2021 18:28:10 -0400"],
+            "torrent:contentLength": ["1591752686"],
+            "torrent:infoHash": ["82A03582FE743A5E56DF89D769197B86D12BC5B4"],
+            "torrent:magnetURI": [
+              "magnet:?xt=urn:btih:82A03582FE743A5E56DF89D769197B86D12BC5B4&dn=Australian.Ninja.Warrior.S05E03.720p.HEVC.x265-MeGusta%5Beztv.re%5D.mkv&tr=udp%3A%2F%2Ftracker.publicbt.com%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969"
+            ],
+            "torrent:seeds": ["0"],
+            "torrent:peers": ["0"],
+            "torrent:verified": ["0"],
+            "torrent:fileName": [
+              "Australian.Ninja.Warrior.S05E03.720p.HEVC.x265-MeGusta[eztv.re].mkv"
+            ],
+            "enclosure": [
+              {
+                "$": {
+                  "url": "https://zoink.ch/torrent/Australian.Ninja.Warrior.S05E03.720p.HEVC.x265-MeGusta[eztv.re].mkv.torrent",
+                  "length": "1591752686",
+                  "type": "application/x-bittorrent"
+                }
+              }
+            ]
+          },
+          {
+            "title": ["NCIS New Orleans S01E08 MULTi 1080p WEB H264-FREAMON"],
+            "category": ["TV"],
+            "link": [
+              "https://eztv.re/ep/1658998/ncis-new-orleans-s01e08-multi-1080p-web-h264-freamon/"
+            ],
+            "guid": [
+              "https://eztv.re/ep/1658998/ncis-new-orleans-s01e08-multi-1080p-web-h264-freamon/"
+            ],
+            "pubDate": ["Wed, 23 Jun 2021 18:11:10 -0400"],
+            "torrent:contentLength": ["1560126935"],
+            "torrent:infoHash": ["42AFF6A8D136572DFED1E42BDD4138923E4A61A4"],
+            "torrent:magnetURI": [
+              "magnet:?xt=urn:btih:42AFF6A8D136572DFED1E42BDD4138923E4A61A4&dn=NCIS.New.Orleans.S01E08.MULTi.1080p.WEB.H264-FREAMON%5Beztv.re%5D.mkv&tr=udp%3A%2F%2Ftracker.publicbt.com%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969"
+            ],
+            "torrent:seeds": ["0"],
+            "torrent:peers": ["0"],
+            "torrent:verified": ["0"],
+            "torrent:fileName": [
+              "NCIS.New.Orleans.S01E08.MULTi.1080p.WEB.H264-FREAMON[eztv.re].mkv"
+            ],
+            "enclosure": [
+              {
+                "$": {
+                  "url": "https://zoink.ch/torrent/NCIS.New.Orleans.S01E08.MULTi.1080p.WEB.H264-FREAMON[eztv.re].mkv.torrent",
+                  "length": "1560126935",
+                  "type": "application/x-bittorrent"
+                }
+              }
+            ]
+          },
+          {
+            "title": ["Australian Ninja Warrior S05E03 480p x264-mSD"],
+            "category": ["TV"],
+            "link": [
+              "https://eztv.re/ep/1658999/australian-ninja-warrior-s05e03-480p-x264-msd/"
+            ],
+            "guid": [
+              "https://eztv.re/ep/1658999/australian-ninja-warrior-s05e03-480p-x264-msd/"
+            ],
+            "pubDate": ["Wed, 23 Jun 2021 18:20:43 -0400"],
+            "torrent:contentLength": ["898346003"],
+            "torrent:infoHash": ["8DB31712FF9EB1B9A7259E1A66F6EDDF9C68F5BA"],
+            "torrent:magnetURI": [
+              "magnet:?xt=urn:btih:8DB31712FF9EB1B9A7259E1A66F6EDDF9C68F5BA&dn=Australian.Ninja.Warrior.S05E03.480p.x264-mSD%5Beztv.re%5D.mkv&tr=udp%3A%2F%2Ftracker.publicbt.com%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969"
+            ],
+            "torrent:seeds": ["0"],
+            "torrent:peers": ["0"],
+            "torrent:verified": ["0"],
+            "torrent:fileName": [
+              "Australian.Ninja.Warrior.S05E03.480p.x264-mSD[eztv.re].mkv"
+            ],
+            "enclosure": [
+              {
+                "$": {
+                  "url": "https://zoink.ch/torrent/Australian.Ninja.Warrior.S05E03.480p.x264-mSD[eztv.re].mkv.torrent",
+                  "length": "898346003",
+                  "type": "application/x-bittorrent"
+                }
+              }
+            ]
+          },
+          {
+            "title": ["Big Brother AU S13E29 480p x264-mSD"],
+            "category": ["TV"],
+            "link": [
+              "https://eztv.re/ep/1658997/big-brother-au-s13e29-480p-x264-msd/"
+            ],
+            "guid": [
+              "https://eztv.re/ep/1658997/big-brother-au-s13e29-480p-x264-msd/"
+            ],
+            "pubDate": ["Wed, 23 Jun 2021 18:07:57 -0400"],
+            "torrent:contentLength": ["427640262"],
+            "torrent:infoHash": ["7048F1AFEAC0255C4F2247D9012C5BA81A74346E"],
+            "torrent:magnetURI": [
+              "magnet:?xt=urn:btih:7048F1AFEAC0255C4F2247D9012C5BA81A74346E&dn=Big.Brother.AU.S13E29.480p.x264-mSD%5Beztv.re%5D.mkv&tr=udp%3A%2F%2Ftracker.publicbt.com%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969"
+            ],
+            "torrent:seeds": ["0"],
+            "torrent:peers": ["0"],
+            "torrent:verified": ["0"],
+            "torrent:fileName": [
+              "Big.Brother.AU.S13E29.480p.x264-mSD[eztv.re].mkv"
+            ],
+            "enclosure": [
+              {
+                "$": {
+                  "url": "https://zoink.ch/torrent/Big.Brother.AU.S13E29.480p.x264-mSD[eztv.re].mkv.torrent",
+                  "length": "427640262",
+                  "type": "application/x-bittorrent"
+                }
+              }
+            ]
+          },
+          {
+            "title": ["Big Brother AU S13E29 720p HEVC x265-MeGusta"],
+            "category": ["TV"],
+            "link": [
+              "https://eztv.re/ep/1658996/big-brother-au-s13e29-720p-hevc-x265-megusta/"
+            ],
+            "guid": [
+              "https://eztv.re/ep/1658996/big-brother-au-s13e29-720p-hevc-x265-megusta/"
+            ],
+            "pubDate": ["Wed, 23 Jun 2021 18:06:02 -0400"],
+            "torrent:contentLength": ["568426753"],
+            "torrent:infoHash": ["F42286D9A680A0FB73FFAC27FA05AA770724D0AD"],
+            "torrent:magnetURI": [
+              "magnet:?xt=urn:btih:F42286D9A680A0FB73FFAC27FA05AA770724D0AD&dn=Big.Brother.AU.S13E29.720p.HEVC.x265-MeGusta%5Beztv.re%5D.mkv&tr=udp%3A%2F%2Ftracker.publicbt.com%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969"
+            ],
+            "torrent:seeds": ["0"],
+            "torrent:peers": ["0"],
+            "torrent:verified": ["0"],
+            "torrent:fileName": [
+              "Big.Brother.AU.S13E29.720p.HEVC.x265-MeGusta[eztv.re].mkv"
+            ],
+            "enclosure": [
+              {
+                "$": {
+                  "url": "https://zoink.ch/torrent/Big.Brother.AU.S13E29.720p.HEVC.x265-MeGusta[eztv.re].mkv.torrent",
+                  "length": "568426753",
+                  "type": "application/x-bittorrent"
+                }
+              }
+            ]
+          },
+          {
+            "title": ["NCIS New Orleans S01E07 MULTi 1080p WEB H264-FREAMON"],
+            "category": ["TV"],
+            "link": [
+              "https://eztv.re/ep/1658990/ncis-new-orleans-s01e07-multi-1080p-web-h264-freamon/"
+            ],
+            "guid": [
+              "https://eztv.re/ep/1658990/ncis-new-orleans-s01e07-multi-1080p-web-h264-freamon/"
+            ],
+            "pubDate": ["Wed, 23 Jun 2021 17:52:08 -0400"],
+            "torrent:contentLength": ["1575997510"],
+            "torrent:infoHash": ["6B2507BF4D5BE1DA5799FBBA6A33DE235C206B65"],
+            "torrent:magnetURI": [
+              "magnet:?xt=urn:btih:6B2507BF4D5BE1DA5799FBBA6A33DE235C206B65&dn=NCIS.New.Orleans.S01E07.MULTi.1080p.WEB.H264-FREAMON%5Beztv.re%5D.mkv&tr=udp%3A%2F%2Ftracker.publicbt.com%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969"
+            ],
+            "torrent:seeds": ["0"],
+            "torrent:peers": ["0"],
+            "torrent:verified": ["0"],
+            "torrent:fileName": [
+              "NCIS.New.Orleans.S01E07.MULTi.1080p.WEB.H264-FREAMON[eztv.re].mkv"
+            ],
+            "enclosure": [
+              {
+                "$": {
+                  "url": "https://zoink.ch/torrent/NCIS.New.Orleans.S01E07.MULTi.1080p.WEB.H264-FREAMON[eztv.re].mkv.torrent",
+                  "length": "1575997510",
+                  "type": "application/x-bittorrent"
+                }
+              }
+            ]
+          },
+          {
+            "title": ["MasterChef Australia S13E48 720p HEVC x265-MeGusta"],
+            "category": ["TV"],
+            "link": [
+              "https://eztv.re/ep/1658995/masterchef-australia-s13e48-720p-hevc-x265-megusta/"
+            ],
+            "guid": [
+              "https://eztv.re/ep/1658995/masterchef-australia-s13e48-720p-hevc-x265-megusta/"
+            ],
+            "pubDate": ["Wed, 23 Jun 2021 18:03:39 -0400"],
+            "torrent:contentLength": ["550238280"],
+            "torrent:infoHash": ["AE4FB7947F779864787AEBC4AABF3E96C4097C8C"],
+            "torrent:magnetURI": [
+              "magnet:?xt=urn:btih:AE4FB7947F779864787AEBC4AABF3E96C4097C8C&dn=MasterChef.Australia.S13E48.720p.HEVC.x265-MeGusta%5Beztv.re%5D.mkv&tr=udp%3A%2F%2Ftracker.publicbt.com%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969"
+            ],
+            "torrent:seeds": ["0"],
+            "torrent:peers": ["0"],
+            "torrent:verified": ["0"],
+            "torrent:fileName": [
+              "MasterChef.Australia.S13E48.720p.HEVC.x265-MeGusta[eztv.re].mkv"
+            ],
+            "enclosure": [
+              {
+                "$": {
+                  "url": "https://zoink.ch/torrent/MasterChef.Australia.S13E48.720p.HEVC.x265-MeGusta[eztv.re].mkv.torrent",
+                  "length": "550238280",
+                  "type": "application/x-bittorrent"
+                }
+              }
+            ]
+          },
+          {
+            "title": ["Big Brother AU S13E29 XviD-AFG"],
+            "category": ["TV"],
+            "link": [
+              "https://eztv.re/ep/1658994/big-brother-au-s13e29-xvid-afg/"
+            ],
+            "guid": [
+              "https://eztv.re/ep/1658994/big-brother-au-s13e29-xvid-afg/"
+            ],
+            "pubDate": ["Wed, 23 Jun 2021 18:02:39 -0400"],
+            "torrent:contentLength": ["865723206"],
+            "torrent:infoHash": ["E1C247E9A57DE23454AE0310D94E9191ECB27FBA"],
+            "torrent:magnetURI": [
+              "magnet:?xt=urn:btih:E1C247E9A57DE23454AE0310D94E9191ECB27FBA&dn=Big.Brother.AU.S13E29.XviD-AFG%5Beztv.re%5D.avi&tr=udp%3A%2F%2Ftracker.publicbt.com%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969"
+            ],
+            "torrent:seeds": ["0"],
+            "torrent:peers": ["0"],
+            "torrent:verified": ["0"],
+            "torrent:fileName": ["Big.Brother.AU.S13E29.XviD-AFG[eztv.re].avi"],
+            "enclosure": [
+              {
+                "$": {
+                  "url": "https://zoink.ch/torrent/Big.Brother.AU.S13E29.XviD-AFG[eztv.re].avi.torrent",
+                  "length": "865723206",
+                  "type": "application/x-bittorrent"
+                }
+              }
+            ]
+          },
+          {
+            "title": ["MasterChef Australia S13E48 XviD-AFG"],
+            "category": ["TV"],
+            "link": [
+              "https://eztv.re/ep/1658992/masterchef-australia-s13e48-xvid-afg/"
+            ],
+            "guid": [
+              "https://eztv.re/ep/1658992/masterchef-australia-s13e48-xvid-afg/"
+            ],
+            "pubDate": ["Wed, 23 Jun 2021 17:58:37 -0400"],
+            "torrent:contentLength": ["800010848"],
+            "torrent:infoHash": ["D4E147078D2F5A98EB2B4A5821BC14E08C21DD36"],
+            "torrent:magnetURI": [
+              "magnet:?xt=urn:btih:D4E147078D2F5A98EB2B4A5821BC14E08C21DD36&dn=MasterChef.Australia.S13E48.XviD-AFG%5Beztv.re%5D.avi&tr=udp%3A%2F%2Ftracker.publicbt.com%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969"
+            ],
+            "torrent:seeds": ["0"],
+            "torrent:peers": ["0"],
+            "torrent:verified": ["0"],
+            "torrent:fileName": [
+              "MasterChef.Australia.S13E48.XviD-AFG[eztv.re].avi"
+            ],
+            "enclosure": [
+              {
+                "$": {
+                  "url": "https://zoink.ch/torrent/MasterChef.Australia.S13E48.XviD-AFG[eztv.re].avi.torrent",
+                  "length": "800010848",
+                  "type": "application/x-bittorrent"
+                }
+              }
+            ]
+          },
+          {
+            "title": ["MasterChef Australia S13E48 480p x264-mSD"],
+            "category": ["TV"],
+            "link": [
+              "https://eztv.re/ep/1658991/masterchef-australia-s13e48-480p-x264-msd/"
+            ],
+            "guid": [
+              "https://eztv.re/ep/1658991/masterchef-australia-s13e48-480p-x264-msd/"
+            ],
+            "pubDate": ["Wed, 23 Jun 2021 17:56:40 -0400"],
+            "torrent:contentLength": ["381592868"],
+            "torrent:infoHash": ["D9DC66B2E60136D9888204F71493B744A2456ACC"],
+            "torrent:magnetURI": [
+              "magnet:?xt=urn:btih:D9DC66B2E60136D9888204F71493B744A2456ACC&dn=MasterChef.Australia.S13E48.480p.x264-mSD%5Beztv.re%5D.mkv&tr=udp%3A%2F%2Ftracker.publicbt.com%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969"
+            ],
+            "torrent:seeds": ["0"],
+            "torrent:peers": ["0"],
+            "torrent:verified": ["0"],
+            "torrent:fileName": [
+              "MasterChef.Australia.S13E48.480p.x264-mSD[eztv.re].mkv"
+            ],
+            "enclosure": [
+              {
+                "$": {
+                  "url": "https://zoink.ch/torrent/MasterChef.Australia.S13E48.480p.x264-mSD[eztv.re].mkv.torrent",
+                  "length": "381592868",
+                  "type": "application/x-bittorrent"
+                }
+              }
+            ]
+          },
+          {
+            "title": ["Australian Ninja Warrior S05E03 720p HDTV x264-ORENJI"],
+            "category": ["TV"],
+            "link": [
+              "https://eztv.re/ep/1658989/australian-ninja-warrior-s05e03-720p-hdtv-x264-orenji/"
+            ],
+            "guid": [
+              "https://eztv.re/ep/1658989/australian-ninja-warrior-s05e03-720p-hdtv-x264-orenji/"
+            ],
+            "pubDate": ["Wed, 23 Jun 2021 17:50:54 -0400"],
+            "torrent:contentLength": ["2323024056"],
+            "torrent:infoHash": ["BCE6733E32A8B7F237762180BCA88A5003FE568A"],
+            "torrent:magnetURI": [
+              "magnet:?xt=urn:btih:BCE6733E32A8B7F237762180BCA88A5003FE568A&dn=australian.ninja.warrior.s05e03.720p.hdtv.x264-orenji%5Beztv.re%5D.mkv&tr=udp%3A%2F%2Ftracker.publicbt.com%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969"
+            ],
+            "torrent:seeds": ["0"],
+            "torrent:peers": ["0"],
+            "torrent:verified": ["0"],
+            "torrent:fileName": [
+              "australian.ninja.warrior.s05e03.720p.hdtv.x264-orenji[eztv.re].mkv"
+            ],
+            "enclosure": [
+              {
+                "$": {
+                  "url": "https://zoink.ch/torrent/australian.ninja.warrior.s05e03.720p.hdtv.x264-orenji[eztv.re].mkv.torrent",
+                  "length": "2323024056",
+                  "type": "application/x-bittorrent"
+                }
+              }
+            ]
+          },
+          {
+            "title": ["Australian Ninja Warrior S05E03 HDTV x264-FQM"],
+            "category": ["TV"],
+            "link": [
+              "https://eztv.re/ep/1658988/australian-ninja-warrior-s05e03-hdtv-x264-fqm/"
+            ],
+            "guid": [
+              "https://eztv.re/ep/1658988/australian-ninja-warrior-s05e03-hdtv-x264-fqm/"
+            ],
+            "pubDate": ["Wed, 23 Jun 2021 17:46:32 -0400"],
+            "torrent:contentLength": ["871151894"],
+            "torrent:infoHash": ["63DBCA17B213C4306CE0E999B504716B10D4EA42"],
+            "torrent:magnetURI": [
+              "magnet:?xt=urn:btih:63DBCA17B213C4306CE0E999B504716B10D4EA42&dn=australian.ninja.warrior.s05e03.hdtv.x264-fqm%5Beztv.re%5D.mkv&tr=udp%3A%2F%2Ftracker.publicbt.com%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969"
+            ],
+            "torrent:seeds": ["0"],
+            "torrent:peers": ["0"],
+            "torrent:verified": ["0"],
+            "torrent:fileName": [
+              "australian.ninja.warrior.s05e03.hdtv.x264-fqm[eztv.re].mkv"
+            ],
+            "enclosure": [
+              {
+                "$": {
+                  "url": "https://zoink.ch/torrent/australian.ninja.warrior.s05e03.hdtv.x264-fqm[eztv.re].mkv.torrent",
+                  "length": "871151894",
+                  "type": "application/x-bittorrent"
+                }
+              }
+            ]
+          },
+          {
+            "title": ["MasterChef Australia S13E48 HDTV x264-FQM"],
+            "category": ["TV"],
+            "link": [
+              "https://eztv.re/ep/1658985/masterchef-australia-s13e48-hdtv-x264-fqm/"
+            ],
+            "guid": [
+              "https://eztv.re/ep/1658985/masterchef-australia-s13e48-hdtv-x264-fqm/"
+            ],
+            "pubDate": ["Wed, 23 Jun 2021 17:42:15 -0400"],
+            "torrent:contentLength": ["395485306"],
+            "torrent:infoHash": ["8D6EA42B4F3B0729BE7F4EB5A581D159432190CD"],
+            "torrent:magnetURI": [
+              "magnet:?xt=urn:btih:8D6EA42B4F3B0729BE7F4EB5A581D159432190CD&dn=MasterChef.Australia.S13E48.HDTV.x264-FQM%5Beztv.re%5D.mkv&tr=udp%3A%2F%2Ftracker.publicbt.com%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969"
+            ],
+            "torrent:seeds": ["0"],
+            "torrent:peers": ["0"],
+            "torrent:verified": ["0"],
+            "torrent:fileName": [
+              "MasterChef.Australia.S13E48.HDTV.x264-FQM[eztv.re].mkv"
+            ],
+            "enclosure": [
+              {
+                "$": {
+                  "url": "https://zoink.ch/torrent/MasterChef.Australia.S13E48.HDTV.x264-FQM[eztv.re].mkv.torrent",
+                  "length": "395485306",
+                  "type": "application/x-bittorrent"
+                }
+              }
+            ]
+          },
+          {
+            "title": ["Big Brother AU S13E29 720p HDTV x264-ORENJI"],
+            "category": ["TV"],
+            "link": [
+              "https://eztv.re/ep/1658987/big-brother-au-s13e29-720p-hdtv-x264-orenji/"
+            ],
+            "guid": [
+              "https://eztv.re/ep/1658987/big-brother-au-s13e29-720p-hdtv-x264-orenji/"
+            ],
+            "pubDate": ["Wed, 23 Jun 2021 17:45:07 -0400"],
+            "torrent:contentLength": ["1184143271"],
+            "torrent:infoHash": ["C4CEBAAA59BC8C74B9A1B58962CF5515377545E4"],
+            "torrent:magnetURI": [
+              "magnet:?xt=urn:btih:C4CEBAAA59BC8C74B9A1B58962CF5515377545E4&dn=big.brother.au.s13e29.720p.hdtv.x264-orenji%5Beztv.re%5D.mkv&tr=udp%3A%2F%2Ftracker.publicbt.com%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969"
+            ],
+            "torrent:seeds": ["0"],
+            "torrent:peers": ["0"],
+            "torrent:verified": ["0"],
+            "torrent:fileName": [
+              "big.brother.au.s13e29.720p.hdtv.x264-orenji[eztv.re].mkv"
+            ],
+            "enclosure": [
+              {
+                "$": {
+                  "url": "https://zoink.ch/torrent/big.brother.au.s13e29.720p.hdtv.x264-orenji[eztv.re].mkv.torrent",
+                  "length": "1184143271",
+                  "type": "application/x-bittorrent"
+                }
+              }
+            ]
+          },
+          {
+            "title": ["MasterChef Australia S13E48 720p HDTV x264-ORENJI"],
+            "category": ["TV"],
+            "link": [
+              "https://eztv.re/ep/1658986/masterchef-australia-s13e48-720p-hdtv-x264-orenji/"
+            ],
+            "guid": [
+              "https://eztv.re/ep/1658986/masterchef-australia-s13e48-720p-hdtv-x264-orenji/"
+            ],
+            "pubDate": ["Wed, 23 Jun 2021 17:44:06 -0400"],
+            "torrent:contentLength": ["1084179249"],
+            "torrent:infoHash": ["C15DAAA79DD9C4083990DFE560F398FE9315AC9A"],
+            "torrent:magnetURI": [
+              "magnet:?xt=urn:btih:C15DAAA79DD9C4083990DFE560F398FE9315AC9A&dn=masterchef.australia.s13e48.720p.hdtv.x264-orenji%5Beztv.re%5D.mkv&tr=udp%3A%2F%2Ftracker.publicbt.com%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969"
+            ],
+            "torrent:seeds": ["0"],
+            "torrent:peers": ["0"],
+            "torrent:verified": ["0"],
+            "torrent:fileName": [
+              "masterchef.australia.s13e48.720p.hdtv.x264-orenji[eztv.re].mkv"
+            ],
+            "enclosure": [
+              {
+                "$": {
+                  "url": "https://zoink.ch/torrent/masterchef.australia.s13e48.720p.hdtv.x264-orenji[eztv.re].mkv.torrent",
+                  "length": "1084179249",
+                  "type": "application/x-bittorrent"
+                }
+              }
+            ]
+          },
+          {
+            "title": ["Big Brother AU S13E29 HDTV x264-FQM"],
+            "category": ["TV"],
+            "link": [
+              "https://eztv.re/ep/1658984/big-brother-au-s13e29-hdtv-x264-fqm/"
+            ],
+            "guid": [
+              "https://eztv.re/ep/1658984/big-brother-au-s13e29-hdtv-x264-fqm/"
+            ],
+            "pubDate": ["Wed, 23 Jun 2021 17:39:31 -0400"],
+            "torrent:contentLength": ["419033184"],
+            "torrent:infoHash": ["FBF9B140A502C13E0B1CE8F9076C1B5E6C4BBFCB"],
+            "torrent:magnetURI": [
+              "magnet:?xt=urn:btih:FBF9B140A502C13E0B1CE8F9076C1B5E6C4BBFCB&dn=big.brother.au.s13e29.hdtv.x264-fqm%5Beztv.re%5D.mkv&tr=udp%3A%2F%2Ftracker.publicbt.com%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969"
+            ],
+            "torrent:seeds": ["0"],
+            "torrent:peers": ["0"],
+            "torrent:verified": ["0"],
+            "torrent:fileName": [
+              "big.brother.au.s13e29.hdtv.x264-fqm[eztv.re].mkv"
+            ],
+            "enclosure": [
+              {
+                "$": {
+                  "url": "https://zoink.ch/torrent/big.brother.au.s13e29.hdtv.x264-fqm[eztv.re].mkv.torrent",
+                  "length": "419033184",
+                  "type": "application/x-bittorrent"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Tuca and Bertie S02E02 Planteau 720p HULU WEBRip AAC2 0 H264-WELP"
+            ],
+            "category": ["TV"],
+            "link": [
+              "https://eztv.re/ep/1658983/tuca-and-bertie-s02e02-planteau-720p-hulu-webrip-aac2-0-h264-welp/"
+            ],
+            "guid": [
+              "https://eztv.re/ep/1658983/tuca-and-bertie-s02e02-planteau-720p-hulu-webrip-aac2-0-h264-welp/"
+            ],
+            "pubDate": ["Wed, 23 Jun 2021 17:20:29 -0400"],
+            "torrent:contentLength": ["386335309"],
+            "torrent:infoHash": ["17BA17398C19C16948EAC5C5BDE64D051096422C"],
+            "torrent:magnetURI": [
+              "magnet:?xt=urn:btih:17BA17398C19C16948EAC5C5BDE64D051096422C&dn=Tuca.and.Bertie.S02E02.Planteau.720p.HULU.WEBRip.AAC2.0.H264-WELP%5Beztv.re%5D.mkv&tr=udp%3A%2F%2Ftracker.publicbt.com%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969"
+            ],
+            "torrent:seeds": ["0"],
+            "torrent:peers": ["0"],
+            "torrent:verified": ["0"],
+            "torrent:fileName": [
+              "Tuca.and.Bertie.S02E02.Planteau.720p.HULU.WEBRip.AAC2.0.H264-WELP[eztv.re].mkv"
+            ],
+            "enclosure": [
+              {
+                "$": {
+                  "url": "https://zoink.ch/torrent/Tuca.and.Bertie.S02E02.Planteau.720p.HULU.WEBRip.AAC2.0.H264-WELP[eztv.re].mkv.torrent",
+                  "length": "386335309",
+                  "type": "application/x-bittorrent"
+                }
+              }
+            ]
+          },
+          {
+            "title": ["Mayans M C S03E02 MULTi 1080p WEB H264-PROPJOE"],
+            "category": ["TV"],
+            "link": [
+              "https://eztv.re/ep/1658982/mayans-m-c-s03e02-multi-1080p-web-h264-propjoe/"
+            ],
+            "guid": [
+              "https://eztv.re/ep/1658982/mayans-m-c-s03e02-multi-1080p-web-h264-propjoe/"
+            ],
+            "pubDate": ["Wed, 23 Jun 2021 16:56:24 -0400"],
+            "torrent:contentLength": ["1669384130"],
+            "torrent:infoHash": ["6DBBE93F80FC2717F289E594FAEA3A5C64F65711"],
+            "torrent:magnetURI": [
+              "magnet:?xt=urn:btih:6DBBE93F80FC2717F289E594FAEA3A5C64F65711&dn=mayans.m.c.s03e02.multi.1080p.web.h264-propjoe%5Beztv.re%5D.mkv&tr=udp%3A%2F%2Ftracker.publicbt.com%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969"
+            ],
+            "torrent:seeds": ["0"],
+            "torrent:peers": ["0"],
+            "torrent:verified": ["0"],
+            "torrent:fileName": [
+              "mayans.m.c.s03e02.multi.1080p.web.h264-propjoe[eztv.re].mkv"
+            ],
+            "enclosure": [
+              {
+                "$": {
+                  "url": "https://zoink.ch/torrent/mayans.m.c.s03e02.multi.1080p.web.h264-propjoe[eztv.re].mkv.torrent",
+                  "length": "1669384130",
+                  "type": "application/x-bittorrent"
+                }
+              }
+            ]
+          },
+          {
+            "title": ["Mayans M C S03E03 MULTi 1080p WEB H264-PROPJOE"],
+            "category": ["TV"],
+            "link": [
+              "https://eztv.re/ep/1658981/mayans-m-c-s03e03-multi-1080p-web-h264-propjoe/"
+            ],
+            "guid": [
+              "https://eztv.re/ep/1658981/mayans-m-c-s03e03-multi-1080p-web-h264-propjoe/"
+            ],
+            "pubDate": ["Wed, 23 Jun 2021 16:51:38 -0400"],
+            "torrent:contentLength": ["1812922896"],
+            "torrent:infoHash": ["76E1A339BDD8185CF317826AF0D85674E0CE2453"],
+            "torrent:magnetURI": [
+              "magnet:?xt=urn:btih:76E1A339BDD8185CF317826AF0D85674E0CE2453&dn=mayans.m.c.s03e03.multi.1080p.web.h264-propjoe%5Beztv.re%5D.mkv&tr=udp%3A%2F%2Ftracker.publicbt.com%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969"
+            ],
+            "torrent:seeds": ["0"],
+            "torrent:peers": ["0"],
+            "torrent:verified": ["0"],
+            "torrent:fileName": [
+              "mayans.m.c.s03e03.multi.1080p.web.h264-propjoe[eztv.re].mkv"
+            ],
+            "enclosure": [
+              {
+                "$": {
+                  "url": "https://zoink.ch/torrent/mayans.m.c.s03e03.multi.1080p.web.h264-propjoe[eztv.re].mkv.torrent",
+                  "length": "1812922896",
+                  "type": "application/x-bittorrent"
+                }
+              }
+            ]
+          },
+          {
+            "title": ["NCIS New Orleans S01E06 MULTi 1080p WEB H264-FREAMON"],
+            "category": ["TV"],
+            "link": [
+              "https://eztv.re/ep/1658980/ncis-new-orleans-s01e06-multi-1080p-web-h264-freamon/"
+            ],
+            "guid": [
+              "https://eztv.re/ep/1658980/ncis-new-orleans-s01e06-multi-1080p-web-h264-freamon/"
+            ],
+            "pubDate": ["Wed, 23 Jun 2021 16:40:24 -0400"],
+            "torrent:contentLength": ["1595614647"],
+            "torrent:infoHash": ["4B2FB1C22BDFA8052C96B670BC138CFF81F1A1FF"],
+            "torrent:magnetURI": [
+              "magnet:?xt=urn:btih:4B2FB1C22BDFA8052C96B670BC138CFF81F1A1FF&dn=NCIS.New.Orleans.S01E06.MULTi.1080p.WEB.H264-FREAMON%5Beztv.re%5D.mkv&tr=udp%3A%2F%2Ftracker.publicbt.com%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969"
+            ],
+            "torrent:seeds": ["0"],
+            "torrent:peers": ["0"],
+            "torrent:verified": ["0"],
+            "torrent:fileName": [
+              "NCIS.New.Orleans.S01E06.MULTi.1080p.WEB.H264-FREAMON[eztv.re].mkv"
+            ],
+            "enclosure": [
+              {
+                "$": {
+                  "url": "https://zoink.ch/torrent/NCIS.New.Orleans.S01E06.MULTi.1080p.WEB.H264-FREAMON[eztv.re].mkv.torrent",
+                  "length": "1595614647",
+                  "type": "application/x-bittorrent"
+                }
+              }
+            ]
+          },
+          {
+            "title": ["Rick and Morty S05E01 720p WEB h264-KOGi"],
+            "category": ["TV"],
+            "link": [
+              "https://eztv.re/ep/1658979/rick-and-morty-s05e01-720p-web-h264-kogi/"
+            ],
+            "guid": [
+              "https://eztv.re/ep/1658979/rick-and-morty-s05e01-720p-web-h264-kogi/"
+            ],
+            "pubDate": ["Wed, 23 Jun 2021 16:30:08 -0400"],
+            "torrent:contentLength": ["546286537"],
+            "torrent:infoHash": ["720E71152A1BFD3B9323E5B7DA6BEE759E7AAFE5"],
+            "torrent:magnetURI": [
+              "magnet:?xt=urn:btih:720E71152A1BFD3B9323E5B7DA6BEE759E7AAFE5&dn=Rick.and.Morty.S05E01.720p.WEB.h264-KOGi%5Beztv.re%5D.mkv&tr=udp%3A%2F%2Ftracker.publicbt.com%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969"
+            ],
+            "torrent:seeds": ["0"],
+            "torrent:peers": ["0"],
+            "torrent:verified": ["0"],
+            "torrent:fileName": [
+              "Rick.and.Morty.S05E01.720p.WEB.h264-KOGi[eztv.re].mkv"
+            ],
+            "enclosure": [
+              {
+                "$": {
+                  "url": "https://zoink.ch/torrent/Rick.and.Morty.S05E01.720p.WEB.h264-KOGi[eztv.re].mkv.torrent",
+                  "length": "546286537",
+                  "type": "application/x-bittorrent"
+                }
+              }
+            ]
+          },
+          {
+            "title": ["Rick and Morty S05E01 1080p WEB h264-KOGi"],
+            "category": ["TV"],
+            "link": [
+              "https://eztv.re/ep/1658978/rick-and-morty-s05e01-1080p-web-h264-kogi/"
+            ],
+            "guid": [
+              "https://eztv.re/ep/1658978/rick-and-morty-s05e01-1080p-web-h264-kogi/"
+            ],
+            "pubDate": ["Wed, 23 Jun 2021 16:24:43 -0400"],
+            "torrent:contentLength": ["868246858"],
+            "torrent:infoHash": ["4CECC2DAA3EDBB4AD3A278B766B89AB448BC069F"],
+            "torrent:magnetURI": [
+              "magnet:?xt=urn:btih:4CECC2DAA3EDBB4AD3A278B766B89AB448BC069F&dn=Rick.and.Morty.S05E01.1080p.WEB.h264-KOGi%5Beztv.re%5D.mkv&tr=udp%3A%2F%2Ftracker.publicbt.com%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969"
+            ],
+            "torrent:seeds": ["0"],
+            "torrent:peers": ["0"],
+            "torrent:verified": ["0"],
+            "torrent:fileName": [
+              "Rick.and.Morty.S05E01.1080p.WEB.h264-KOGi[eztv.re].mkv"
+            ],
+            "enclosure": [
+              {
+                "$": {
+                  "url": "https://zoink.ch/torrent/Rick.and.Morty.S05E01.1080p.WEB.h264-KOGi[eztv.re].mkv.torrent",
+                  "length": "868246858",
+                  "type": "application/x-bittorrent"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Mayans M C S03E01 INTERNAL MULTi 1080p WEB H264-SILVIODANTE"
+            ],
+            "category": ["TV"],
+            "link": [
+              "https://eztv.re/ep/1658977/mayans-m-c-s03e01-internal-multi-1080p-web-h264-silviodante/"
+            ],
+            "guid": [
+              "https://eztv.re/ep/1658977/mayans-m-c-s03e01-internal-multi-1080p-web-h264-silviodante/"
+            ],
+            "pubDate": ["Wed, 23 Jun 2021 16:13:26 -0400"],
+            "torrent:contentLength": ["1882917709"],
+            "torrent:infoHash": ["3C5AB0799B9A3388F7C418DF4946CD0FA7FB68BA"],
+            "torrent:magnetURI": [
+              "magnet:?xt=urn:btih:3C5AB0799B9A3388F7C418DF4946CD0FA7FB68BA&dn=mayans.m.c.s03e01.internal.multi.1080p.web.h264-silviodante%5Beztv.re%5D.mkv&tr=udp%3A%2F%2Ftracker.publicbt.com%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969"
+            ],
+            "torrent:seeds": ["0"],
+            "torrent:peers": ["0"],
+            "torrent:verified": ["0"],
+            "torrent:fileName": [
+              "mayans.m.c.s03e01.internal.multi.1080p.web.h264-silviodante[eztv.re].mkv"
+            ],
+            "enclosure": [
+              {
+                "$": {
+                  "url": "https://zoink.ch/torrent/mayans.m.c.s03e01.internal.multi.1080p.web.h264-silviodante[eztv.re].mkv.torrent",
+                  "length": "1882917709",
+                  "type": "application/x-bittorrent"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Ms Fishers Modern Murder Mysteries S02E03 WEBRip x264-PHOENiX"
+            ],
+            "category": ["TV"],
+            "link": [
+              "https://eztv.re/ep/1658976/ms-fishers-modern-murder-mysteries-s02e03-webrip-x264-phoenix/"
+            ],
+            "guid": [
+              "https://eztv.re/ep/1658976/ms-fishers-modern-murder-mysteries-s02e03-webrip-x264-phoenix/"
+            ],
+            "pubDate": ["Wed, 23 Jun 2021 15:52:19 -0400"],
+            "torrent:contentLength": ["368020442"],
+            "torrent:infoHash": ["9315087FCE1E96AED58D52B1A8B5DB9A9679F3EB"],
+            "torrent:magnetURI": [
+              "magnet:?xt=urn:btih:9315087FCE1E96AED58D52B1A8B5DB9A9679F3EB&dn=Ms.Fishers.Modern.Murder.Mysteries.S02E03.WEBRip.x264-PHOENiX%5Beztv.re%5D.mkv&tr=udp%3A%2F%2Ftracker.publicbt.com%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969"
+            ],
+            "torrent:seeds": ["0"],
+            "torrent:peers": ["0"],
+            "torrent:verified": ["0"],
+            "torrent:fileName": [
+              "Ms.Fishers.Modern.Murder.Mysteries.S02E03.WEBRip.x264-PHOENiX[eztv.re].mkv"
+            ],
+            "enclosure": [
+              {
+                "$": {
+                  "url": "https://zoink.ch/torrent/Ms.Fishers.Modern.Murder.Mysteries.S02E03.WEBRip.x264-PHOENiX[eztv.re].mkv.torrent",
+                  "length": "368020442",
+                  "type": "application/x-bittorrent"
+                }
+              }
+            ]
+          },
+          {
+            "title": ["American Dad S18E10 720p WEBRip x265-MiNX"],
+            "category": ["TV"],
+            "link": [
+              "https://eztv.re/ep/1658975/american-dad-s18e10-720p-webrip-x265-minx/"
+            ],
+            "guid": [
+              "https://eztv.re/ep/1658975/american-dad-s18e10-720p-webrip-x265-minx/"
+            ],
+            "pubDate": ["Wed, 23 Jun 2021 15:51:52 -0400"],
+            "torrent:contentLength": ["93096026"],
+            "torrent:infoHash": ["772B7DC9142784B6ADBEF17A1E822215AFDCC9D5"],
+            "torrent:magnetURI": [
+              "magnet:?xt=urn:btih:772B7DC9142784B6ADBEF17A1E822215AFDCC9D5&dn=American.Dad.S18E10.720p.WEBRip.x265-MiNX%5Beztv.re%5D.mkv&tr=udp%3A%2F%2Ftracker.publicbt.com%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969"
+            ],
+            "torrent:seeds": ["0"],
+            "torrent:peers": ["0"],
+            "torrent:verified": ["0"],
+            "torrent:fileName": [
+              "American.Dad.S18E10.720p.WEBRip.x265-MiNX[eztv.re].mkv"
+            ],
+            "enclosure": [
+              {
+                "$": {
+                  "url": "https://zoink.ch/torrent/American.Dad.S18E10.720p.WEBRip.x265-MiNX[eztv.re].mkv.torrent",
+                  "length": "93096026",
+                  "type": "application/x-bittorrent"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Ms Fishers Modern Murder Mysteries S02E02 Come Die With Me 720p AMZN WEBRip DDP2 0 x264-NTb"
+            ],
+            "category": ["TV"],
+            "link": [
+              "https://eztv.re/ep/1658967/ms-fishers-modern-murder-mysteries-s02e02-come-die-with-me-720p-amzn-webrip-ddp2-0-x264-ntb/"
+            ],
+            "guid": [
+              "https://eztv.re/ep/1658967/ms-fishers-modern-murder-mysteries-s02e02-come-die-with-me-720p-amzn-webrip-ddp2-0-x264-ntb/"
+            ],
+            "pubDate": ["Wed, 23 Jun 2021 15:17:59 -0400"],
+            "torrent:contentLength": ["1525316294"],
+            "torrent:infoHash": ["91F30C628D723CC016CFCF4AEE9FF9F6F57B21DB"],
+            "torrent:magnetURI": [
+              "magnet:?xt=urn:btih:91F30C628D723CC016CFCF4AEE9FF9F6F57B21DB&dn=Ms.Fishers.Modern.Murder.Mysteries.S02E02.Come.Die.With.Me.720p.AMZN.WEBRip.DDP2.0.x264-NTb%5Beztv.re%5D.mkv&tr=udp%3A%2F%2Ftracker.publicbt.com%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969"
+            ],
+            "torrent:seeds": ["0"],
+            "torrent:peers": ["0"],
+            "torrent:verified": ["0"],
+            "torrent:fileName": [
+              "Ms.Fishers.Modern.Murder.Mysteries.S02E02.Come.Die.With.Me.720p.AMZN.WEBRip.DDP2.0.x264-NTb[eztv.re].mkv"
+            ],
+            "enclosure": [
+              {
+                "$": {
+                  "url": "https://zoink.ch/torrent/Ms.Fishers.Modern.Murder.Mysteries.S02E02.Come.Die.With.Me.720p.AMZN.WEBRip.DDP2.0.x264-NTb[eztv.re].mkv.torrent",
+                  "length": "1525316294",
+                  "type": "application/x-bittorrent"
+                }
+              }
+            ]
+          },
+          {
+            "title": [
+              "Ms Fishers Modern Murder Mysteries S02E04 WEBRip x264-PHOENiX"
+            ],
+            "category": ["TV"],
+            "link": [
+              "https://eztv.re/ep/1658974/ms-fishers-modern-murder-mysteries-s02e04-webrip-x264-phoenix/"
+            ],
+            "guid": [
+              "https://eztv.re/ep/1658974/ms-fishers-modern-murder-mysteries-s02e04-webrip-x264-phoenix/"
+            ],
+            "pubDate": ["Wed, 23 Jun 2021 15:42:16 -0400"],
+            "torrent:contentLength": ["367058008"],
+            "torrent:infoHash": ["740E470B11FE8C50822543AFE62D530EF3775091"],
+            "torrent:magnetURI": [
+              "magnet:?xt=urn:btih:740E470B11FE8C50822543AFE62D530EF3775091&dn=Ms.Fishers.Modern.Murder.Mysteries.S02E04.WEBRip.x264-PHOENiX%5Beztv.re%5D.mkv&tr=udp%3A%2F%2Ftracker.publicbt.com%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969"
+            ],
+            "torrent:seeds": ["0"],
+            "torrent:peers": ["0"],
+            "torrent:verified": ["0"],
+            "torrent:fileName": [
+              "Ms.Fishers.Modern.Murder.Mysteries.S02E04.WEBRip.x264-PHOENiX[eztv.re].mkv"
+            ],
+            "enclosure": [
+              {
+                "$": {
+                  "url": "https://zoink.ch/torrent/Ms.Fishers.Modern.Murder.Mysteries.S02E04.WEBRip.x264-PHOENiX[eztv.re].mkv.torrent",
+                  "length": "367058008",
+                  "type": "application/x-bittorrent"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
