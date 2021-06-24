@@ -1,6 +1,6 @@
 const fetch = require("node-fetch");
 const parser = require("xml2json");
-//const express = require("express");
+const express = require("express");
 var s = { "Last Sync": 0 };
 
 function lastSync() {
@@ -49,7 +49,6 @@ async function checkLoki() {
   return f;
 }
 
-/*
 const app = express();
 
 app.use(express.json());
@@ -70,7 +69,6 @@ app.post("/api/v1/loki", async (req, res) => {
   }
   return res.json(x);
 });
-*/
 
 async function loop() {
   const hURL = process.env.HOOK;
@@ -109,4 +107,4 @@ async function loop() {
 
 setInterval(loop, 600000);
 
-//app.listen(3000, () => console.log("[Loki] Webhook is listening"));
+app.listen(3000, () => console.log("[Loki] Webhook is listening"));
