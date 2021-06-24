@@ -41,7 +41,7 @@ async function checkLoki() {
     });
 
   const f = JSON.parse(parser.toJson(response)).rss.channel.item.find((e) =>
-    e.title.toLowerCase().includes("loki")
+    e.title.toLowerCase().includes("icarly")
   );
 
   s = lastSync();
@@ -69,5 +69,45 @@ app.post("/api/v1/loki", async (req, res) => {
   }
   return res.json(x);
 });
+
+async function loop() {
+  const hURL = process.env.HOOK; 
+
+  const x = await checkLoki();
+  if (!x) {
+    return;
+  }
+
+  const requestOptions = {
+    method: "POST",
+    headers: { "Content-Type": "application/json" },
+    body: JSON.stringify({
+      username: "Loki Bot",
+      avatar_url:
+        "https://i.gadgets360cdn.com/large/loki_tom_hiddleston_crop_1622797154582.jpg?downsize=950:*&output-quality=80",
+      content: "Title : " + x.title + "\n Link : " + x.link,
+    }),
+  };
+
+  console.log(requestOptions);
+
+  const response = await fetch(hURL, requestOptions)
+    .then((response) => {
+      console.log("disocrd status : ", response.status);
+      console.log(response);
+      return response.text();
+    })
+    .then((result) => {
+      return result;
+    })
+    .catch((error) => {
+      return error;
+    });
+
+  return response;
+}
+
+loop();
+//setInterval(loop, 600000);
 
 app.listen(3000, () => console.log("[Loki] Webhook is listening"));
