@@ -6,19 +6,9 @@ var s = { "Last Sync": 0 };
 function lastSync() {
   var currentDate = new Date();
   var dateTime = {
-    "Last Sync":
-      currentDate.getDate() +
-      "/" +
-      (currentDate.getMonth() + 1) +
-      "/" +
-      currentDate.getFullYear() +
-      " @ " +
-      currentDate.getHours() +
-      ":" +
-      currentDate.getMinutes() +
-      ":" +
-      currentDate.getSeconds(),
+    "Last Sync": `${currentDate.getDate()}/${currentDate.getMonth() + 1}/${currentDate.getFullYear()}@${currentDate.getHours()}:${currentDate.getMinutes()}:${currentDate.getSeconds()}`,
   };
+  
   return dateTime;
 }
 
@@ -85,7 +75,7 @@ async function loop() {
       username: "Loki Bot",
       avatar_url:
         "https://i.gadgets360cdn.com/large/loki_tom_hiddleston_crop_1622797154582.jpg?downsize=950:*&output-quality=80",
-      content: "Title : " + x.title + "\n Link : " + x.link,
+      content: `Title: ${x.title} \n Link : ${x.link}`
     }),
   };
 
