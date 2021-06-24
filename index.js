@@ -41,7 +41,7 @@ async function checkLoki() {
     });
 
   const f = JSON.parse(parser.toJson(response)).rss.channel.item.find((e) =>
-    e.title.toLowerCase().includes("icarly")
+    e.title.toLowerCase().includes("days")
   );
 
   s = lastSync();
@@ -92,7 +92,6 @@ async function loop() {
   const response = await fetch(hURL, requestOptions)
     .then((response) => {
       console.log("disocrd status : ", response.status);
-      console.log(response);
       return response.text();
     })
     .then((result) => {
@@ -105,6 +104,6 @@ async function loop() {
   return response;
 }
 
-setInterval(loop, 600000);
+setInterval(loop, 10000);
 
 app.listen(3000, () => console.log("[Loki] Webhook is listening"));
