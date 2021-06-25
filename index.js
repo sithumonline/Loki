@@ -8,7 +8,7 @@ function lastSync() {
   var dateTime = {
     "Last Sync": `${currentDate.getDate()}/${currentDate.getMonth() + 1}/${currentDate.getFullYear()}@${currentDate.getHours()}:${currentDate.getMinutes()}:${currentDate.getSeconds()}`,
   };
-  
+
   return dateTime;
 }
 
@@ -96,4 +96,4 @@ async function loop() {
 
 setInterval(loop, 55000);
 
-app.listen(3000, () => console.log("[Loki] Webhook is listening"));
+app.listen(process.env.PORT || 3000, () => console.log("[Loki] Webhook is listening"));
