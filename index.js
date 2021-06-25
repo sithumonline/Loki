@@ -94,6 +94,26 @@ async function loop() {
   return response;
 }
 
+async function wakeup() {
+  const requestOptions = {
+    method: "GET",
+    redirect: "follow",
+  };
+
+  await fetch("http://localhost:3000/api/v1/loki", requestOptions)
+    .then((response) => {
+      console.log("heroku status : ", response.status);
+      return response.text();
+    })
+    .then((result) => {
+      return result;
+    })
+    .catch((error) => {
+      return error;
+    });
+}
+
 setInterval(loop, 300000);
+setInterval(wakeup, 5000);
 
 app.listen(process.env.PORT || 3000, () => console.log("[Loki] Webhook is listening"));
