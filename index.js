@@ -100,7 +100,7 @@ async function wakeup() {
     redirect: "follow",
   };
 
-  await fetch("http://localhost:3000/api/v1/loki", requestOptions)
+  await fetch("https://loki-bot.herokuapp.com/api/v1/loki", requestOptions)
     .then((response) => {
       console.log("heroku status : ", response.status);
       return response.text();
