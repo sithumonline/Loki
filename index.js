@@ -33,7 +33,8 @@ async function checkLoki() {
       return error;
     });
 
-  if (response.status != 200) {
+  if (response.length < 75) {
+    console.log("eztv resp : ", response);
     return;
   }
 
