@@ -6,7 +6,9 @@ var s = { "Last Sync": 0 };
 function lastSync() {
   var currentDate = new Date();
   var dateTime = {
-    "Last Sync": `${currentDate.getDate()}/${currentDate.getMonth() + 1}/${currentDate.getFullYear()}@${currentDate.getHours()}:${currentDate.getMinutes()}:${currentDate.getSeconds()}`,
+    "Last Sync": `${currentDate.getDate()}/${
+      currentDate.getMonth() + 1
+    }/${currentDate.getFullYear()}@${currentDate.getHours()}:${currentDate.getMinutes()}:${currentDate.getSeconds()}`,
   };
 
   return dateTime;
@@ -23,12 +25,17 @@ async function checkLoki() {
       console.log("eztv status : ", response.status);
       return response.text();
     })
+
     .then((result) => {
       return result;
     })
     .catch((error) => {
       return error;
     });
+
+  if (response.status != 200) {
+    return;
+  }
 
   const f = JSON.parse(parser.toJson(response)).rss.channel.item.find((e) =>
     e.title.toLowerCase().includes("loki")
@@ -75,7 +82,7 @@ async function loop() {
       username: "Loki Bot",
       avatar_url:
         "https://i.gadgets360cdn.com/large/loki_tom_hiddleston_crop_1622797154582.jpg?downsize=950:*&output-quality=80",
-      content: `Title: ${x.title} \n Link : ${x.link}`
+      content: `Title: ${x.title} \n Link : ${x.link}`,
     }),
   };
 
@@ -116,4 +123,6 @@ async function wakeup() {
 setInterval(loop, 300000);
 setInterval(wakeup, 1620000);
 
-app.listen(process.env.PORT || 3000, () => console.log("[Loki] Webhook is listening"));
+app.listen(process.env.PORT || 3000, () =>
+  console.log("[Loki] Webhook is listening")
+);
