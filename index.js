@@ -39,13 +39,14 @@ async function checkLoki() {
   }
 
   const f = JSON.parse(parser.toJson(response)).rss.channel.item.find((e) =>
-    e.title.toLowerCase().includes("loki")
+    e.title.toLowerCase().includes("======")
   );
 
   s = lastSync();
 
   return f;
 }
+
 
 const app = express();
 
