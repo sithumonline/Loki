@@ -123,7 +123,7 @@ async function wakeup() {
 }
 
 setInterval(loop, 300000);
-setInterval(wakeup, 1620000);
+//setInterval(wakeup, 1620000);
 
 app.listen(process.env.PORT || 3000, () =>
   console.log("[Loki] Webhook is listening")
