@@ -2,6 +2,7 @@ const fetch = require("node-fetch");
 const parser = require("xml2json");
 const express = require("express");
 var s = { "Last Sync": 0 };
+var episode = 08;
 
 function lastSync() {
   var currentDate = new Date();
@@ -20,9 +21,9 @@ async function checkLoki() {
     redirect: "follow",
   };
 
-  const response = await fetch("https://eztv.re/ezrss.xml", requestOptions)
+  const response = await fetch("https://torrentgalaxy.to/rss", requestOptions)
     .then((response) => {
-      console.log("eztv status : ", response.status);
+      console.log("tgx status : ", response.status);
       return response.text();
     })
 
@@ -34,19 +35,25 @@ async function checkLoki() {
     });
 
   if (response.length < 75) {
-    console.log("eztv resp : ", response);
+    console.log("tgx resp : ", response);
     return;
   }
 
   const f = JSON.parse(parser.toJson(response)).rss.channel.item.find((e) =>
-    e.title.toLowerCase().includes("=======")
+    console.log(
+      e.title.includes(
+        `Foundation.S01E${
+          episode < 10 ? "0" + episode : episode
+        }.720p.WEB.x265-MiNX[TGx]`
+      )
+    )
   );
 
   s = lastSync();
+  episode++;
 
   return f;
 }
-
 
 const app = express();
 
@@ -123,7 +130,7 @@ async function wakeup() {
 }
 
 setInterval(loop, 300000);
-//setInterval(wakeup, 1620000);
+setInterval(wakeup, 1620000);
 
 app.listen(process.env.PORT || 3000, () =>
   console.log("[Loki] Webhook is listening")
